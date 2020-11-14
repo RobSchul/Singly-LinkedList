@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rober\\Desktop\\FormFree\\SinglyLinkedLists\\SinglyLinkedListsTest\\SinglyLinkedListsTest.csproj": {}
+    "C:\\Users\\rober\\Desktop\\FormFree\\SinglyLinkedLists\\Assessment2\\SinglyLinkedListsTest\\SinglyLinkedListsTest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rober\\Desktop\\FormFree\\SinglyLinkedLists\\SinglyLinkedListsTest\\SinglyLinkedListsTest.csproj": {
+    "C:\\Users\\rober\\Desktop\\FormFree\\SinglyLinkedLists\\Assessment2\\SinglyLinkedListsTest\\SinglyLinkedListsTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rober\\Desktop\\FormFree\\SinglyLinkedLists\\SinglyLinkedListsTest\\SinglyLinkedListsTest.csproj",
+        "projectUniqueName": "C:\\Users\\rober\\Desktop\\FormFree\\SinglyLinkedLists\\Assessment2\\SinglyLinkedListsTest\\SinglyLinkedListsTest.csproj",
         "projectName": "SinglyLinkedListsTest",
-        "projectPath": "C:\\Users\\rober\\Desktop\\FormFree\\SinglyLinkedLists\\SinglyLinkedListsTest\\SinglyLinkedListsTest.csproj",
+        "projectPath": "C:\\Users\\rober\\Desktop\\FormFree\\SinglyLinkedLists\\Assessment2\\SinglyLinkedListsTest\\SinglyLinkedListsTest.csproj",
         "packagesPath": "C:\\Users\\rober\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rober\\Desktop\\FormFree\\SinglyLinkedLists\\SinglyLinkedListsTest\\obj\\",
+        "outputPath": "C:\\Users\\rober\\Desktop\\FormFree\\SinglyLinkedLists\\Assessment2\\SinglyLinkedListsTest\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rober\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -27,8 +27,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\rober\\Desktop\\FormFree\\SinglyLinkedLists\\SinglyLinkedLists\\SinglyLinkedLists.csproj": {
-                "projectPath": "C:\\Users\\rober\\Desktop\\FormFree\\SinglyLinkedLists\\SinglyLinkedLists\\SinglyLinkedLists.csproj"
+              "C:\\Users\\rober\\Desktop\\FormFree\\SinglyLinkedLists\\Assessment2\\SinglyLinkedLists\\SinglyLinkedLists.csproj": {
+                "projectPath": "C:\\Users\\rober\\Desktop\\FormFree\\SinglyLinkedLists\\Assessment2\\SinglyLinkedLists\\SinglyLinkedLists.csproj"
               }
             }
           }
@@ -78,14 +78,14 @@
         }
       }
     },
-    "C:\\Users\\rober\\Desktop\\FormFree\\SinglyLinkedLists\\SinglyLinkedLists\\SinglyLinkedLists.csproj": {
+    "C:\\Users\\rober\\Desktop\\FormFree\\SinglyLinkedLists\\Assessment2\\SinglyLinkedLists\\SinglyLinkedLists.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rober\\Desktop\\FormFree\\SinglyLinkedLists\\SinglyLinkedLists\\SinglyLinkedLists.csproj",
+        "projectUniqueName": "C:\\Users\\rober\\Desktop\\FormFree\\SinglyLinkedLists\\Assessment2\\SinglyLinkedLists\\SinglyLinkedLists.csproj",
         "projectName": "SinglyLinkedLists",
-        "projectPath": "C:\\Users\\rober\\Desktop\\FormFree\\SinglyLinkedLists\\SinglyLinkedLists\\SinglyLinkedLists.csproj",
+        "projectPath": "C:\\Users\\rober\\Desktop\\FormFree\\SinglyLinkedLists\\Assessment2\\SinglyLinkedLists\\SinglyLinkedLists.csproj",
         "packagesPath": "C:\\Users\\rober\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rober\\Desktop\\FormFree\\SinglyLinkedLists\\SinglyLinkedLists\\obj\\",
+        "outputPath": "C:\\Users\\rober\\Desktop\\FormFree\\SinglyLinkedLists\\Assessment2\\SinglyLinkedLists\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rober\\AppData\\Roaming\\NuGet\\NuGet.Config",

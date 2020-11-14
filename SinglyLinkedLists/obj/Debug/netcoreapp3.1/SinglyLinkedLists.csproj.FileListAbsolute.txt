@@ -9,3 +9,14 @@ C:\Users\rober\Desktop\FormFree\SinglyLinkedLists\SinglyLinkedLists\obj\Debug\ne
 C:\Users\rober\Desktop\FormFree\SinglyLinkedLists\SinglyLinkedLists\obj\Debug\netcoreapp3.1\SinglyLinkedLists.AssemblyInfo.cs
 C:\Users\rober\Desktop\FormFree\SinglyLinkedLists\SinglyLinkedLists\obj\Debug\netcoreapp3.1\SinglyLinkedLists.dll
 C:\Users\rober\Desktop\FormFree\SinglyLinkedLists\SinglyLinkedLists\obj\Debug\netcoreapp3.1\SinglyLinkedLists.pdb
+C:\Users\rober\Desktop\FormFree\SinglyLinkedLists\Assessment2\SinglyLinkedLists\bin\Debug\netcoreapp3.1\SinglyLinkedLists.exe
+C:\Users\rober\Desktop\FormFree\SinglyLinkedLists\Assessment2\SinglyLinkedLists\bin\Debug\netcoreapp3.1\SinglyLinkedLists.deps.json
+C:\Users\rober\Desktop\FormFree\SinglyLinkedLists\Assessment2\SinglyLinkedLists\bin\Debug\netcoreapp3.1\SinglyLinkedLists.runtimeconfig.json
+C:\Users\rober\Desktop\FormFree\SinglyLinkedLists\Assessment2\SinglyLinkedLists\bin\Debug\netcoreapp3.1\SinglyLinkedLists.runtimeconfig.dev.json
+C:\Users\rober\Desktop\FormFree\SinglyLinkedLists\Assessment2\SinglyLinkedLists\bin\Debug\netcoreapp3.1\SinglyLinkedLists.dll
+C:\Users\rober\Desktop\FormFree\SinglyLinkedLists\Assessment2\SinglyLinkedLists\bin\Debug\netcoreapp3.1\SinglyLinkedLists.pdb
+C:\Users\rober\Desktop\FormFree\SinglyLinkedLists\Assessment2\SinglyLinkedLists\obj\Debug\netcoreapp3.1\SinglyLinkedLists.csprojAssemblyReference.cache
+C:\Users\rober\Desktop\FormFree\SinglyLinkedLists\Assessment2\SinglyLinkedLists\obj\Debug\netcoreapp3.1\SinglyLinkedLists.AssemblyInfoInputs.cache
+C:\Users\rober\Desktop\FormFree\SinglyLinkedLists\Assessment2\SinglyLinkedLists\obj\Debug\netcoreapp3.1\SinglyLinkedLists.AssemblyInfo.cs
+C:\Users\rober\Desktop\FormFree\SinglyLinkedLists\Assessment2\SinglyLinkedLists\obj\Debug\netcoreapp3.1\SinglyLinkedLists.dll
+C:\Users\rober\Desktop\FormFree\SinglyLinkedLists\Assessment2\SinglyLinkedLists\obj\Debug\netcoreapp3.1\SinglyLinkedLists.pdb

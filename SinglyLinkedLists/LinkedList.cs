@@ -9,7 +9,6 @@ namespace SinglyLinkedLists
         public  int FifthElementFromEnd(LinkedList<int> intList)
         {
             
-
             LinkedListNode<int> header = intList.First;
 
             LinkedListNode<int> fifthElement = intList.First;
