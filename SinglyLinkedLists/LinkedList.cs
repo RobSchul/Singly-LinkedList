@@ -6,6 +6,12 @@ namespace SinglyLinkedLists
 {
     public class LinkedList
     {
+        /// <summary>
+        /// This goes through the linked list having two pointers. both originally pointing at the head. 
+        /// if the count is greater than 5 then the second pointer becomes valid and moves forward by one with the header lagging behind it by 5
+        /// </summary>
+        /// <param name="intList"></param>
+        /// <returns></returns>
         public  int FifthElementFromEnd(LinkedList<int> intList)
         {
             
@@ -40,8 +46,13 @@ namespace SinglyLinkedLists
 
         }
 
-
-        public  string FifthElementFromEnd(LinkedList<string> intList)
+        /// <summary>
+        /// This goes through the linked list having two pointers. both originally pointing at the head. 
+        /// if the count is greater than 5 then the second pointer becomes valid and moves forward by one with the header lagging behind it by 5
+        /// </summary> 
+        /// <param name="intList"></param>
+        /// <returns></returns>
+        public string FifthElementFromEnd(LinkedList<string> intList)
         {
 
 
